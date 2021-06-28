@@ -22,6 +22,7 @@ full-way code
 
 
 4.Modify last level cache policy based on RRIP !
+
 add replacement_policy in L3 cache
 
 
