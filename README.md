@@ -7,6 +7,7 @@ Follow tuitor
 
 
 3.Config last level cache to  2-way and full-way associative cache and test performance !
+
 2-way code
 
 <code>
